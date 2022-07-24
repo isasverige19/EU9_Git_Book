@@ -1,9 +1,3 @@
 
 
-This is the first page of my book.
-
-I am planning to write on digital minimalism.
-
-Writing my book in Intellij by also using git and github seems like a really good idea.
-
-I will be able to share my progress with everyone involved within the book project.
+page 1 of the book
