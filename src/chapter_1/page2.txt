@@ -1,9 +1,9 @@
 
 
-page 2 of the book
+Page 2 of the book.
 
-we are getting ready to commit
+We are getting ready to commit
 
-nothing new yet
+Nothing new yet.
 
-still no new things
+Still no new things.
