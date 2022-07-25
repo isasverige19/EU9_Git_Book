@@ -8,3 +8,8 @@ for the book so far
 chapter1 is good
 
 keep up the good work
+
+add these things:
+
+more fun
+more java
